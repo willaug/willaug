@@ -1,8 +1,6 @@
-## 💡 Vamos fazer algo grande!
+## 👋 Olá!
 
-**Criar projetos escaláveis, limpos e enxutos é o meu objetivo.**
-
-Atuo no desenvolvimento de aplicativos web com **JavaScript** e com o fabuloso framework **VueJS**. No desenvolvimento estático com HTML5, CSS, SASS/SCSS e Bootstrap 5. No desenvolvimento de servidores com NodeJS, ExpressJS, <span>Socket</span>.io, Sequelize ORM portando arquiteturas MVC, API REST e RESTFUL (HATEOAS). E como banco de dados: **MySQL**.
+Desde os quinze anos fascinado em códigos, sou desenvolvedor full-stack e adoro aprender coisas novas e contribuir com pessoas.
 
 <br>
 
