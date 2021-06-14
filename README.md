@@ -1,6 +1,7 @@
 ## 👋 Olá!
 
 Desde os quinze anos fascinado em códigos, sou desenvolvedor full-stack e adoro aprender coisas novas e contribuir com pessoas.
+<br>
 Full-stack JavaScript & TypeScript ❤️
 <br>
 
