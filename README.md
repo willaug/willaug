@@ -16,8 +16,6 @@
 
 - 📆 I'm **19** years old
 
-- 🌈 He/Him
-
 - 🏠 I'm from **Brazil** and I live in **State of São Paulo**
 
 - 🌱 I’m currently learning **React** and **Java**
