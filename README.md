@@ -20,7 +20,7 @@
 
 - 🏠 I'm from **Brazil** and I live in **State of São Paulo**
 
-- 🌱 I’m currently learning **Nuxt**, **Angular Universal** and **NativeScript**
+- 🌱 I’m currently learning **React** and **Java**
 
 - 💪 **In my free time I love going to the gym**
 
