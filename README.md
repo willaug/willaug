@@ -16,9 +16,9 @@
 
 - 📆 I'm **19** years old
 
-- 🏠 I'm from **Brazil** and I live in **State of São Paulo**
+- 🏠 I'm from **Brazil** and I live in **São José do Rio Preto, State of São Paulo**
 
-- 🌱 I’m currently learning **React** and **Java**
+- 🌱 I’m currently learning **React**, **MongoDB** and **React Native**
 
 - 💪 **In my free time I love going to the gym**
 
