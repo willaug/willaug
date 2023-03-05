@@ -18,7 +18,7 @@
 
 - 🏠 I'm from **Brazil** and I live in **São José do Rio Preto, State of São Paulo**
 
-- 🌱 I’m currently learning **React**, **MongoDB** and **React Native**
+- 🚀 I'm **learning mobile**, specifically Android with Kotlin
 
 - 💪 **In my free time I love going to the gym**
 
