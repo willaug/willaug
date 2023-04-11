@@ -12,15 +12,11 @@
 
 **about me**
 
-- 🔭 I’m currently work at **Field Control**
-
-- 📆 I'm **20** years old
-
-- 🏠 I'm from **Brazil** and I live in **São José do Rio Preto, State of São Paulo**
-
-- 🚀 I'm **learning mobile**, specifically Android with Kotlin
-
-- 💪 **In my free time I love going to the gym**
+- 🔭 I currently work at Field Control.
+- 📆 I'm 20 years old.
+- 🏠 I'm from Brazil and I live in São José do Rio Preto, State of São Paulo.
+- 🚀 I'm learning best practices, leadership, and advanced concepts for JavaScript.
+- 💪 In my free time, I love going to the gym.
 
 <br>
 
