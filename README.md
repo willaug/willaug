@@ -7,7 +7,7 @@
 
 **👋 hey folks**
 
-- 🇧🇷 I'm William, a 20-year-old Brazilian.
+- 🇧🇷 I'm William, a 21-year-old Brazilian.
 - 💻 I roll as a Fullstack Dev at FieldControl.
 - 💙 TypeScript and Angular are my coding crush.
 - 🏋️‍♂️ I lift at the gym and jump ropes outside it!
