@@ -5,15 +5,15 @@
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [microsoft-shield]: https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
 
-**👋 hey folks**
+**👋 Hey folks**
 
-- 🇧🇷 I'm William, a 21-year-old Brazilian.
-- 💻 I roll as a Fullstack Dev at FieldControl.
-- 💙 TypeScript and Angular are my coding crush.
-- 🏋️‍♂️ I lift at the gym and jump ropes outside it!
-- 🎯 My aim is to specialize in cloud technologies ☁️, with a particular focus on AWS and its certifications.
+- 🇧🇷 I'm William, a 21-year-old Brazilian.  
+- 💻 I work as a Mid-level Fullstack Developer at FieldControl.  
+- 💙 TypeScript, NestJS, and Cloud Computing are my passions.  
+- 🇺🇸 I have a B2 level in English.  
+- 🏋️‍♂️ I lift weights and run every week.  
 
-**📱 contact me**
+**📱 Contact me**
 
 <p>
   <a target="_blank" rel="noopener" href="https://linkedin.com/in/william-augusto">
