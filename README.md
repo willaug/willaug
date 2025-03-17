@@ -3,7 +3,8 @@
 - 🇧🇷 I'm William.  
 - 💻 Mid-level full-stack at FieldControl.  
 - ☁️ AWS Cloud (🚀 CLF-C02 Coming soon).  
-- 💙 +4yrs TypeScript coding.  
+- 💙 +4yrs TypeScript coding.
+- 🐟 Docking...
 - 🥰 I'm full-stack, but I prefer the back-end.  
 - 🔤 B2 English.  
 - 🏋️‍♂️ I lift weights and run regularly.  
