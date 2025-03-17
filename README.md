@@ -7,10 +7,12 @@
 **👋 Hey there!**  
 
 - 🇧🇷 I'm William.  
-- 💻 Mid-level Fullstack Developer at FieldControl.  
-- 💙 Passionate about TypeScript, NestJS & Cloud Computing.  
-- 🔤 English level: B2.  
-- 🏋️‍♂️ I lift weights and run regularly.  
+- 💻 Mid-level full-stack at FieldControl.  
+- ☁️ AWS Cloud (🚀 CLF-C02 Coming soon).
+- 💙 +4yrs typescript coding.
+- 🥰 I'm fullstack, but I prefer the back stacks.
+- 🔤 B2 English.  
+- 🏋️‍♂️ I lift weights and run regularly.
 
 **😎 Let's connect!**
 
