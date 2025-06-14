@@ -2,7 +2,7 @@
 
 - 🇧🇷 I'm William.  
 - 💻 Mid-level full-stack at FieldControl.  
-- ☁️ AWS Cloud (🚀 CLF-C02 Coming soon).  
+- ☁️ AWS Certified Cloud Practitioner – CLF-C02 (2025 - 2028)
 - 💙 +4yrs TypeScript coding.
 - 🐟 Docking...
 - 🔤 B2 English.
