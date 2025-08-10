@@ -1,11 +1,17 @@
 **👋 Hey there!**  
 
 - 🇧🇷 I'm William.  
-- 💻 Mid-level full-stack at FieldControl.  
+- 💻 Mid full-stack at FieldControl.  
 - ☁️ AWS Certified Cloud Practitioner – CLF-C02 (2025 - 2028)
 - 💙 +4yrs TypeScript coding.
-- 🐟 Docking...
-- 🔤 B2 English.
+- 🔤 C1 English Level & native brazilian portuguese.
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/d4f9afca-d42f-41a6-8ced-8217b09ae379" width="300">
+
+<br>
+<br>
 
 **😎 Let's connect!**  
 
@@ -22,3 +28,5 @@
     <img src="https://img.shields.io/badge/Credly-E37400?style=for-the-badge&logo=credly&logoColor=white" />
   </a>
 </p>
+
+
