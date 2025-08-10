@@ -3,14 +3,9 @@
 - 🇧🇷 I'm William.  
 - 💻 Mid full-stack at FieldControl.  
 - ☁️ AWS Certified Cloud Practitioner – CLF-C02 (2025 - 2028)
-- 💙 +4yrs TypeScript coding.
+- 💙 +4yrs building solutions.
 - 🔤 C1 English Level & native brazilian portuguese.
 
-<br>
-
-<img src="https://github.com/user-attachments/assets/d4f9afca-d42f-41a6-8ced-8217b09ae379" width="300">
-
-<br>
 <br>
 
 **😎 Let's connect!**  
